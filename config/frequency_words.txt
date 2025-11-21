@@ -1,7 +1,8 @@
 Deepseek
-Qwen
-Kimi
-开源大模型
+OpenAI
+Gemini
+人工智能
+大模型
 
 米哈游
 原神
@@ -13,14 +14,9 @@ Kimi
 光刻机
 
 华为
-
+苹果
 小米
 
 英伟达
 黄仁勋
 NVIDIA
-
-谷歌
-Google
-Gemini
-
