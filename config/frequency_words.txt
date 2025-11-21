@@ -8,14 +8,19 @@ Kimi
 星穹铁道
 
 日本
-韩国
-美国
 
 芯片
 光刻机
 
 华为
 
+小米
+
 英伟达
 黄仁勋
 NVIDIA
+
+谷歌
+Google
+Gemini
+
